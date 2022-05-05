@@ -1,0 +1,79 @@
+﻿<Window x:Class="Application_01.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Application_01"
+        mc:Ignorable="d"
+        Title="Home" Height="700" Width="1100" Icon="icon.ico" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/assets/icons.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    
+    <Grid MouseDown="Border_MouseDown">
+
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0.1,0" EndPoint="0.9,1">
+                <GradientStop Color="#FFE63070" Offset="1" />
+                <GradientStop Color="#FFFE8704"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border>
+            <Border Height="657" VerticalAlignment="Top" CornerRadius="0 0 180 25" Background="#100E17" MouseDown="Border_MouseDown" />
+        </Border>
+        
+        <StackPanel Orientation="Horizontal">
+
+
+            <StackPanel Width="250">
+                <TextBlock x:Name="txtbl_home" Text="HOME" Margin="0" Foreground="White" TextAlignment="Center" VerticalAlignment="Center" FontSize="40" FontFamily="Curlz MT" Cursor="Hand" PreviewMouseDown="txtbl_home_PreviewMouseDown"/>
+                <StackPanel Orientation="Vertical" Margin="0 60 0 0">
+                    <Button x:Name="btn_dashboard" Margin="5 10 5 0" Height="50" materialDesign:ButtonAssist.CornerRadius="7" Content="Dashboard" d:LayoutOverrides="Height" FontSize="22" FontFamily="Curlz MT" Click="btn_dashboard_Click"/>
+                    <Button x:Name="btn_students" Margin="5 10 5 0" Height="50" materialDesign:ButtonAssist.CornerRadius="7" Content="Students" d:LayoutOverrides="Height" FontSize="22" FontFamily="Curlz MT" Click="btn_students_Click"/>
+                    <Button x:Name="btn_attendance" Margin="5 10 5 0" Height="50" materialDesign:ButtonAssist.CornerRadius="7" Content="Attendance" d:LayoutOverrides="Height" FontFamily="Curlz MT" FontSize="22" Click="btn_attendance_Click"/>
+                    <Button x:Name="btn_fees" Margin="5 10 5 0" Height="50" materialDesign:ButtonAssist.CornerRadius="7" Content="Fees" d:LayoutOverrides="Height" FontFamily="Curlz MT" FontSize="22" Click="btn_fees_Click"/>
+                    <Button x:Name="btn_sendSMS" Margin="5 10 5 0" Height="50" materialDesign:ButtonAssist.CornerRadius="7" Content="Send Messages" d:LayoutOverrides="Height" FontSize="22" FontFamily="Curlz MT" Click="btn_sendSMS_Click"/>
+                    <Button x:Name="btn_viewUsers" Margin="5 130 5 0" Height="50" materialDesign:ButtonAssist.CornerRadius="7" Content="View/edit Users" d:LayoutOverrides="Height" FontSize="22" FontFamily="Curlz MT" Click="btn_viewUsers_Click"/>
+                    <StackPanel Orientation="Horizontal" Margin="0 8 0 0">
+                        <Button x:Name="btn_logout" Margin="5 0 5 0" Height="50" Width="117" materialDesign:ButtonAssist.CornerRadius="5 0 0 25" Content="Logout" d:LayoutOverrides="Height" FontFamily="Curlz MT" FontSize="22" Click="btn_logout_Click" />
+                        <Button x:Name="btn_bottum_exit" Margin="0 0 5 0" Height="50" Width="117" materialDesign:ButtonAssist.CornerRadius="0 10 10 0" Content="Exit" d:LayoutOverrides="Height" FontFamily="Curlz MT" FontSize="22" Click="btn_bottum_exit_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Width="750" Name="HomeStack">
+               
+            </StackPanel>
+            <StackPanel Width="100">
+                <Button Margin="10,20,10,10" Style="{StaticResource MaterialDesignFloatingActionButton}" Background="{x:Null}" ToolTip="Close" x:Name="btn_exit" Click="btn_exit_Click">
+                    <materialDesign:PackIcon Kind="Close" Foreground="White" Width="30" Height="30" />
+                </Button>
+                <Button Margin="10 -5" Style="{StaticResource MaterialDesignFloatingActionMiniButton}" Background="{x:Null}" ToolTip="Minimize" x:Name="btn_minimize" Click="btn_minimize_Click">
+                    <materialDesign:PackIcon Kind="WindowMinimize"  Foreground="White" Width="15" Height="50" />
+                </Button>
+            </StackPanel>
+            
+
+            
+            
+            <!--<StackPanel Width="100">
+            <Button Margin="10,20,10,10" Style="{StaticResource MaterialDesignFloatingActionButton}" Background="{x:Null}" ToolTip="Close" x:Name="btn_exit" Click="btn_exit_Click">
+                <materialDesign:PackIcon Kind="Close" Foreground="White" Width="30" Height="30" />
+            </Button>
+            <Button Margin="10 -5" Style="{StaticResource MaterialDesignFloatingActionMiniButton}" Background="{x:Null}" ToolTip="Minimize" x:Name="btn_minimize" Click="btn_minimize_Click">
+                <materialDesign:PackIcon Kind="WindowMinimize"  Foreground="White" Width="15" Height="50" />
+            </Button>
+            </StackPanel>-->
+            
+        </StackPanel>
+
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="Application_01.ViewUsers"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:Application_01"
+             mc:Ignorable="d" 
+             d:DesignHeight="560" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <Style x:Key="DGHeaderStyle" TargetType="{x:Type DataGrid}">
+            <Setter Property="ColumnHeaderStyle" Value="{DynamicResource DGCHeaderStyle}"/>
+        </Style>
+        <Style x:Key="DGCHeaderStyle" TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Border>
+            <Border Height="556" VerticalAlignment="Bottom" CornerRadius="0 0 0 0" Background="#100E17" >
+            </Border>
+        </Border>
+
+        <StackPanel Orientation="Horizontal">
+            <DataGrid AutoGenerateColumns="True" SelectionUnit="FullRow" x:Name="ViewUsers_Datagrid" Width="800" Height="556" IsReadOnly="True" Style="{DynamicResource DGHeaderStyle}" Foreground="White" Background="#100E17" BorderBrush="#FFFE8704" GridLinesVisibility="Horizontal" HorizontalGridLinesBrush="#FFFE8704" BorderThickness="0" materialDesign:DataGridAssist.CornerRadius="0 0 10 10" FontWeight="Normal">
+                <DataGrid.Resources>
+                    <Style BasedOn="{StaticResource {x:Type DataGridColumnHeader}}" TargetType="{x:Type DataGridColumnHeader}">
+                        <Setter Property="Foreground" Value="White" />
+                        <Setter Property="FontWeight" Value="Bold" />
+                        <Setter Property="Background" Value="#f44336"/>
+                    </Style>
+                </DataGrid.Resources>
+            </DataGrid>
+        </StackPanel>
+            
+    </Grid>
+</UserControl>

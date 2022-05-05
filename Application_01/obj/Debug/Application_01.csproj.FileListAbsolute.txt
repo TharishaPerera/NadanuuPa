@@ -1,0 +1,291 @@
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\MaterialDesignColors.dll
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\MainWindow.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\App.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\App.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\MainWindow.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Application_01.Properties.Resources.resources
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Application_01.csproj.GenerateResource.cache
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Application_01.csproj.CoreCompileInputs.cache
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Application_01.csproj.CopyComplete
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\System.Security.Permissions.dll
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\System.Security.Permissions.xml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Home.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Home.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\assets\icons.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Dashboard.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Dashboard.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Students.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Students.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Registration.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Registration.baml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01.csprojAssemblyReference.cache
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Dashboard.g.cs
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Home.g.cs
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\MainWindow.g.cs
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Registration.g.cs
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\SRegistration.g.cs
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Students.g.cs
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\App.g.cs
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01_MarkupCompile.cache
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01_MarkupCompile.lref
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01.exe
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01.pdb
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\Application_01.exe.config
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\Application_01.exe.manifest
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\Application_01.application
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\Application_01.exe
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\Application_01.pdb
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\MaterialDesignColors.dll
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\System.Security.Permissions.dll
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\System.Security.Permissions.xml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\App.baml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\assets\icons.baml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Dashboard.baml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Home.baml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\MainWindow.baml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Registration.baml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Students.baml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\SRegistration.baml
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01.g.resources
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01.Properties.Resources.resources
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01.csproj.GenerateResource.cache
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01.csproj.CoreCompileInputs.cache
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01.exe.manifest
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01.application
+C:\Users\MSI-GF63\Desktop\Application_01\Application_01\obj\Debug\Application_01.csproj.CopyComplete
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\SRegistration.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\ViewStudents.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\SRegistration.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\ViewStudents.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\UpdateStudent.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\UpdateStudent.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\DeleteStudent.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\DeleteStudent.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\HomeImg.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\HomeImg.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\SendMsg.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\SendMsg.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\StudentImg.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\StudentImg.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\ChangePw.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\ChangePw.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Fees.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Fees.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\EnterFee.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\EnterFee.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\ViewFee.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\ViewFee.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Attendance.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Attendance.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\EnterAttendance.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\EnterAttendance.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\Naadanu Pa.exe.config
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\Naadanu Pa.exe.manifest
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\Naadanu Pa.application
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\Naadanu Pa.exe
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\bin\Debug\Naadanu Pa.pdb
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Naadanu Pa_MarkupCompile.cache
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Naadanu Pa_MarkupCompile.lref
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Naadanu Pa.g.resources
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Naadanu Pa.exe.manifest
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Naadanu Pa.application
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Naadanu Pa.exe
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Naadanu Pa.pdb
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\ViewAttendance.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\ViewAttendance.baml
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\Application_01.csproj.AssemblyReference.cache
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\RegisterUser.g.cs
+C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\Application_01\obj\Debug\RegisterUser.baml
+D:\GAD CW2\Application_01\Application_01\bin\Debug\Naadanu Pa.exe.config
+D:\GAD CW2\Application_01\Application_01\bin\Debug\Naadanu Pa.exe.manifest
+D:\GAD CW2\Application_01\Application_01\bin\Debug\Naadanu Pa.application
+D:\GAD CW2\Application_01\Application_01\bin\Debug\Naadanu Pa.exe
+D:\GAD CW2\Application_01\Application_01\bin\Debug\Naadanu Pa.pdb
+D:\GAD CW2\Application_01\Application_01\bin\Debug\MaterialDesignColors.dll
+D:\GAD CW2\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GAD CW2\Application_01\Application_01\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.AccessControl.dll
+D:\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.Permissions.dll
+D:\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.Principal.Windows.dll
+D:\GAD CW2\Application_01\Application_01\bin\Debug\MaterialDesignColors.pdb
+D:\GAD CW2\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GAD CW2\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GAD CW2\Application_01\Application_01\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.AccessControl.xml
+D:\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.Permissions.xml
+D:\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.Principal.Windows.xml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Application_01.csproj.AssemblyReference.cache
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Attendance.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ChangePw.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Dashboard.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\DeleteStudent.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\EnterAttendance.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\EnterFee.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Fees.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Home.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\HomeImg.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\MainWindow.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\RegisterUser.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Registration.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\SendMsg.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\SRegistration.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\StudentImg.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Students.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\UpdateStudent.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ViewAttendance.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ViewFee.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ViewStudents.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\App.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa_MarkupCompile.cache
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa_MarkupCompile.lref
+D:\GAD CW2\Application_01\Application_01\obj\Debug\App.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\assets\icons.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Attendance.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ChangePw.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Dashboard.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\DeleteStudent.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\EnterAttendance.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\EnterFee.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Fees.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Home.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\HomeImg.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\MainWindow.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\RegisterUser.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Registration.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\SendMsg.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\SRegistration.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\StudentImg.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Students.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\UpdateStudent.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ViewAttendance.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ViewFee.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ViewStudents.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa.g.resources
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Application_01.Properties.Resources.resources
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Application_01.csproj.GenerateResource.cache
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Application_01.csproj.CoreCompileInputs.cache
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa.exe.manifest
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa.application
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Application_01.csproj.CopyComplete
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa.exe
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa.pdb
+D:\GAD CW2\Application_01\Application_01\obj\Debug\dashboardUC.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\dashboardUC.baml
+D:\GAD CW2\Application_01\Application_01\bin\Debug\BouncyCastle.Crypto.dll
+D:\GAD CW2\Application_01\Application_01\bin\Debug\itextsharp.dll
+D:\GAD CW2\Application_01\Application_01\bin\Debug\itextsharp.xml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ViewEditUsers.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ViewEditUsers.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ViewUsers.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\ViewUsers.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\EditUser.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\EditUser.baml
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Email.g.cs
+D:\GAD CW2\Application_01\Application_01\obj\Debug\Email.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\Naadanu Pa.exe.config
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\Naadanu Pa.exe.manifest
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\Naadanu Pa.application
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\Naadanu Pa.exe
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\Naadanu Pa.pdb
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\BouncyCastle.Crypto.dll
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\itextsharp.dll
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\MaterialDesignColors.dll
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.AccessControl.dll
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.Permissions.dll
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.Principal.Windows.dll
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\itextsharp.xml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\MaterialDesignColors.pdb
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.AccessControl.xml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.Permissions.xml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\bin\Debug\System.Security.Principal.Windows.xml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Application_01.csproj.AssemblyReference.cache
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Application_01.csproj.SuggestedBindingRedirects.cache
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Attendance.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ChangePw.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Dashboard.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\dashboardUC.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\DeleteStudent.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\EditUser.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Email.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\EnterAttendance.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\EnterFee.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Fees.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Home.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\HomeImg.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\MainWindow.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\RegisterUser.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Registration.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\SendMsg.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\SRegistration.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\StudentImg.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Students.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\UpdateStudent.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ViewAttendance.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ViewEditUsers.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ViewFee.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ViewStudents.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ViewUsers.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\App.g.cs
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa_MarkupCompile.cache
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa_MarkupCompile.lref
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\App.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\assets\icons.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Attendance.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ChangePw.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Dashboard.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\dashboardUC.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\DeleteStudent.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\EditUser.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Email.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\EnterAttendance.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\EnterFee.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Fees.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Home.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\HomeImg.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\MainWindow.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\RegisterUser.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Registration.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\SendMsg.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\SRegistration.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\StudentImg.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Students.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\UpdateStudent.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ViewAttendance.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ViewEditUsers.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ViewFee.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ViewStudents.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\ViewUsers.baml
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa.g.resources
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Application_01.Properties.Resources.resources
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Application_01.csproj.GenerateResource.cache
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Application_01.csproj.CoreCompileInputs.cache
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa.exe.manifest
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa.application
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Application_01.csproj.CopyComplete
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa.exe
+D:\Personal Projects\GAD CW2\Application_01\Application_01\obj\Debug\Naadanu Pa.pdb

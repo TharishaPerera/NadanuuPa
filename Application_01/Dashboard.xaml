@@ -1,0 +1,63 @@
+﻿<Window x:Class="Application_01.Dashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Application_01"
+        mc:Ignorable="d"
+        Title="Dashboard" Height="700" Width="1100" Icon="icon.ico" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/assets/icons.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid MouseDown="Border_MouseDown">
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0.1,0" EndPoint="0.9,1">
+                <GradientStop Color="#FFE63070" Offset="1"/>
+                <GradientStop Color="#FFFE8704"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border>
+            <Border Height="657" VerticalAlignment="Top" CornerRadius="0 0 180 25" Background="#100E17" MouseDown="Border_MouseDown" />
+        </Border>
+
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Width="250">
+                <TextBlock Text="DASHBOARD" Margin="0" Foreground="White" TextAlignment="Center" VerticalAlignment="Center" FontSize="40" FontFamily="Curlz MT" />
+                <StackPanel Orientation="Vertical" Margin="0 60 0 0">
+                    <TextBlock Text="Dancing" Margin="10 0 0 0" Foreground="White" TextAlignment="Left" FontFamily="Footlight MT Light" FontSize="24"/>
+                    <TextBlock Text="Is The" Margin="10 0 0 0" Foreground="White" TextAlignment="Left" FontFamily="Footlight MT Light" FontSize="24" />
+                    <TextBlock Text="Hidden" Margin="10 0 0 0 " Foreground="White" TextAlignment="Left" FontFamily="Footlight MT Light" FontSize="24" />
+                    <TextBlock Text="Language" Margin="10 0 0 0" Foreground="White" TextAlignment="Left" FontSize="24" FontFamily="Footlight MT Light" />
+                    <TextBlock Text="Of The" Margin="10 0 0 0" Foreground="White" TextAlignment="Left" FontSize="24" FontFamily="Footlight MT Light" />
+                    <TextBlock Text="Soul." Margin="10 0 0 0" Foreground="White" TextAlignment="Left" FontSize="24" FontFamily="Footlight MT Light" />
+                    <TextBlock Text="~ Martha Graham" Margin="0" Foreground="White" TextAlignment="Right" FontSize="24" FontFamily="Footlight MT Light" />
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="btn_back" Margin="5 310 5 0" Height="50" Width="115" materialDesign:ButtonAssist.CornerRadius="5 0 0 25" Content="Back" d:LayoutOverrides="Height" FontFamily="Curlz MT" FontSize="22" Click="btn_back_Click"/>
+                        <Button x:Name="btn_bottum_exit" Margin="0 310 5 0" Height="50" Width="115" materialDesign:ButtonAssist.CornerRadius="0 10 10 0" Content="Exit" d:LayoutOverrides="Height" FontFamily="Curlz MT" FontSize="22" Click="btn_bottum_exit_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Width="750">
+
+            </StackPanel>
+            <StackPanel Width="100">
+                <Button x:Name="btn_exit" Margin="10,20,10,10" Style="{StaticResource MaterialDesignFloatingActionButton}" Background="{x:Null}" ToolTip="Close" Click="btn_exit_Click">
+                    <materialDesign:PackIcon Kind="Close" Foreground="White" Width="30" Height="30" />
+                </Button>
+                <Button x:Name="btn_minimize" Margin="10 -5" Style="{StaticResource MaterialDesignFloatingActionMiniButton}" Background="{x:Null}" ToolTip="Minimize" Click="btn_minimize_Click">
+                    <materialDesign:PackIcon Kind="WindowMinimize"  Foreground="White" Width="15" Height="50" />
+                </Button>
+            </StackPanel>
+
+        </StackPanel>
+
+
+    </Grid>
+</Window>

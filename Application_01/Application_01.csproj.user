@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>D:\GAD CW2\Application_01\SetUp\|C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\SetUp\003\|D:\testC#\Application_01\SetUp\003\|C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\SetUp\002\|C:\Users\MSI-GF63\Documents\Visual Studio 2019\Projects\Application_01\SetUp\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
